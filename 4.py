@@ -12,4 +12,5 @@ for i in range (t):
     else:
         print("No")
         
+        
     
