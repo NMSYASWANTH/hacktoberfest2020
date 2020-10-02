@@ -12,5 +12,6 @@ for i in range(0,a):
         else:
             print(i,end="")
     print()
+    
         
     
