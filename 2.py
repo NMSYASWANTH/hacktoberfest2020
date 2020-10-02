@@ -11,3 +11,4 @@ for i in range(0,a):
         else:
             e.append(c[i])
     print(*(d+e))
+    
